@@ -60,7 +60,7 @@ contact:
 # Site icons, relative to ./static
 assets:
   # favicon.ico for legacy browsers
-  favicon: 'nofavicon'
+  favicon: 'favicon.ico'
 
   # A single SVG icon with a light/dark version for modern browsers
   svgicon: ''
