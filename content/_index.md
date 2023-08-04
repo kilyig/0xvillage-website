@@ -10,7 +10,7 @@ This retreat offers a change of pace, where people can unwind after Devconnect a
 
 We are targeting a modest participant count (around 30), with priority given to researchers and engineers who are currently working on crypto-related technical projects. University students studying related fields are also welcome to attend.
 
-Yiğit Kılıçoğlu is the main organizer, and he has been to the Village many times before. He is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
+{{< link src="https://yigitkilicoglu.com" class="external" target="_blank" rel="noopener noreferrer" >}}Yiğit Kılıçoğlu{{< /link >}} is the main organizer, and he has been to the Village many times before. He is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
 
 **If you are potentially interested in joining this retreat, please let us know by filling out the {{< link src="https://forms.gle/bvfUbDNhGPeg3GCR6" class="external" target="_blank" rel="noopener noreferrer" >}}interest form{{< /link >}}. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
