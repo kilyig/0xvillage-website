@@ -1,9 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest",
   "id": "a9c69b88-2038-546c-993f-415aa9527f29",
-  "name": "Prof. Dr. Önder İsmet Kılıçoğlu",
-  "short_name": "1967 - 2022",
-  "description": "Önder Kılıçoğlu anısına...",
+  "name": "Retreat to Nesin Village",
+  "short_name": "after Devconnect 2023",
+  "description": "Retreat to the Nesin Village after Devconnect",
   "lang": "en-us",
   "dir": "ltr",
   "start_url": "/index.html?source=pwa",
@@ -13,24 +13,14 @@
   "orientation": "natural",
   "shortcuts": [  
     {
-      "name": "Ana Sayfa",
-      "short_name" : "ana-sayfa",
+      "name": "English",
+      "short_name" : "english",
       "url": "/"
     } ,
     {
-      "name": "Hayatı",
-      "short_name" : "hayati",
-      "url": "/hayati/"
-    } ,
-    {
-      "name": "Fotoğraflar",
-      "short_name" : "fotograflar",
-      "url": "/fotograflar/"
-    } ,
-    {
-      "name": "Anılar",
-      "short_name" : "anilar",
-      "url": "/anilar/"
+      "name": "Türkçe",
+      "short_name" : "turkce",
+      "url": "/turkce/"
     }
   ],
   "icons": [

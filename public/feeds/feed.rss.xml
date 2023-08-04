@@ -10,13 +10,13 @@
     xml:lang="en-us"
     xml:base="http://example.org/">
     <channel>
-        <title type="html"><![CDATA[Prof. Dr. Önder İsmet Kılıçoğlu]]></title>
+        <title type="html"><![CDATA[Retreat to Nesin Village]]></title>
     </channel>
     <link type="text/html">http://example.org/</link>
     
     <image>
         <url>http://example.org/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
-        <title type="html"><![CDATA[Prof. Dr. Önder İsmet Kılıçoğlu]]></title>
+        <title type="html"><![CDATA[Retreat to Nesin Village]]></title>
         <link>http://example.org/</link>
         <width>96</width>
         <height>96</height>
@@ -28,7 +28,7 @@
     <atom:link href="/index.json" rel="alternate" type="application/json" title="JSON" />
     <atom:link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="Manifest" />
     <atom:link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
-    <description type="html"><![CDATA[Önder Kılıçoğlu anısına...]]></description>
+    <description type="html"><![CDATA[Retreat to the Nesin Village after Devconnect]]></description>
     <generator>Hugo 0.108.0</generator>
     <dc:creator type="html"><![CDATA[John Doe]]></dc:creator>
     <language>en-us</language>

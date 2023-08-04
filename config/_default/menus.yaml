@@ -1,22 +1,12 @@
 # For more see https://gohugo.io/content-management/menus/
 
 main:                     # sections in the website sidebar
-  - identifier: ana-sayfa # section id
-    name: Ana Sayfa       # section display title
+  - identifier: english   # section id
+    name: English         # section display title
     url: /                # path to the section
     weight: 1             # order of sections
 
-  - identifier: hayati
-    name: Hayatı
-    url: /hayati/
+  - identifier: turkce
+    name: Türkçe
+    url: /turkce/
     weight: 2
-
-  - identifier: fotograflar
-    name: Fotoğraflar
-    url: /fotograflar/
-    weight: 3
-
-  - identifier: anilar
-    name: Anılar
-    url: /anilar/
-    weight: 4

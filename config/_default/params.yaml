@@ -1,6 +1,6 @@
 # Site description. Used in meta description
 description: >-
-  Önder Kılıçoğlu anısına...
+  Retreat to the Nesin Village after Devconnect
 
 # SEO keywords. Used in 'meta name="keywords"' tag.
 # May be overridden by .Keywords or .Tags in front matter.
@@ -17,14 +17,12 @@ copyright: 'Copyright &copy; 2019-{year} John Doe'
 colorScheme: ''
 
 # Used in site header
-tagline: 1967 - 2022
+tagline: after Devconnect 2023
 
 # Custom footer text on left sidebar. Use HTMl if needed.
 # "&copy;" and "{year}" will be replaced by © and the current year.
 footer: >-
-  Built with <a href="https://github.com/sergeyklay/gohugo-theme-ed"
-  target="_blank" rel="noopener noreferrer">Ed</a>. Distributed under an MIT
-  license.
+
 
 # Sections to be displayed in:
 # - main page
@@ -62,10 +60,10 @@ contact:
 # Site icons, relative to ./static
 assets:
   # favicon.ico for legacy browsers
-  favicon: 'favicon.ico'
+  favicon: ''
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: 'onderkilicoglu.svg'
+  svgicon: ''
 
   # 180×180 PNG image for Apple devices
   apple_touch_icon: ''
