@@ -1,0 +1,3 @@
+# robots.txt file for "Prof. Dr. Önder İsmet Kılıçoğlu" website, example.org
+User-agent: *
+Disallow: /
