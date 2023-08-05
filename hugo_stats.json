@@ -66,6 +66,7 @@
       "acknowledgements",
       "dates",
       "hypothesis-link",
+      "konum-ve-konaklama",
       "location-and-accommodation",
       "main",
       "menu-main-english",
@@ -74,9 +75,11 @@
       "sidebar",
       "sidebar-checkbox",
       "structure",
+      "tarih",
       "top-of-site",
       "top-of-site-anchor",
-      "travel"
+      "travel",
+      "ulaşım"
     ]
   }
 }

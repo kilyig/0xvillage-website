@@ -4,15 +4,17 @@ title: "Nesin Village Retreat"
 
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
 
+Hello friends of Ethereum,
+
 After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to a unique location: the Nesin Mathematics Village. Situated among the mountains in Western Turkey, this non-profit village is dedicated to mathematics, philosophy, and the arts.
 
-This retreat offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey.
+This retreat offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of chilling back home, come to the Nesin Village and chill with us!
 
 We are targeting a modest participant count (around 30), with priority given to researchers and engineers who are currently working on crypto-related technical projects. University students studying related fields are also welcome to attend.
 
-{{< link src="https://yigitkilicoglu.com" class="external" target="_blank" rel="noopener noreferrer" >}}Yiğit Kılıçoğlu{{< /link >}} is the main organizer, and he has been to the Village many times before. He is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
+Feel free to contact {{< link src="https://yigitkilicoglu.com" class="external" target="_blank" rel="noopener noreferrer" >}}Yiğit Kılıçoğlu{{< /link >}} if you want to reach out to the organizers. Yiğit is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
 
-**If you are potentially interested in joining this retreat, please let us know by filling out the {{< link src="https://forms.gle/bvfUbDNhGPeg3GCR6" class="external" target="_blank" rel="noopener noreferrer" >}}interest form{{< /link >}}. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
+**If you feel like you might consider applying to this retreat, please let us know by filling out the {{< link src="https://forms.gle/bvfUbDNhGPeg3GCR6" class="external" target="_blank" rel="noopener noreferrer" >}}interest form{{< /link >}}. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
 ## Dates
 
@@ -30,14 +32,18 @@ We have reserved accommodation for 30 people, and are currently looking for fund
 ## Travel
 
 Travel from Istanbul to the Village will look like the following:
-1. Take a train to Sabiha Gökçen Airport (SAW). There are also frequent flights from IST.
+
+1. Take a train to Sabiha Gökçen Airport (SAW). Sabiha Gökçen is the last stop of the {{< link src="https://www.metro.istanbul/en/Hatlarimiz/HatDetay?hat=M4" class="external" target="_blank" rel="noopener noreferrer" >}}M4 metro line{{< /link >}}. There are also frequent flights from IST.
 2. After an hour-long flight, land in İzmir Adnan Menderes Airport (ADB).
-3. Take an hour-long train from ADB to Selçuk. Relevant trains can be found on the {{< link src="https://bilet.tcdd.gov.tr/" class="external" target="_blank" rel="noopener noreferrer" >}}TCDD website{{< /link >}} (from: Adnanmenderes Havaalanı, to: Selçuk).
-4. Short minibus trip to the Village.
+3. Take an hour-long train from ADB to Selçuk. Relevant trains can be found on the {{< link src="https://bilet.tcdd.gov.tr/" class="external" target="_blank" rel="noopener noreferrer" >}}TCDD website{{< /link >}} ("Nereden" (from): Adnanmenderes Havaalanı, "Nereye" (to): Selçuk).
+4. Short minibus trip to Şirince.
+5. The Village is 800 meters from the minibus stop at Şirince.
+
+For other details, check out the Village's {{< link src="https://nesinkoyleri.org/en/how-to-get-here/" class="external" target="_blank" rel="noopener noreferrer" >}}guide{{< /link >}}.
 
 ## Structure
 
-Participants will virtually have complete freedom. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. We expect the main benefits of the retreat to come from the informal discussions between participants. The {{< link src="https://nesinkoyleri.org/en/library-catalogue/" class="external" target="_blank" rel="noopener noreferrer" >}}math library{{< /link >}} of the Village will be open to the participants. Additionally, we plan to organize a day trip to Ephesus and the nearby village of Şirince.
+Participants will virtually have complete freedom. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. We expect the main benefits of the retreat to come from the informal discussions between participants. The {{< link src="https://nesinkoyleri.org/en/library-catalogue/" class="external" target="_blank" rel="noopener noreferrer" >}}math library{{< /link >}} of the Village will be open to the participants. Additionally, we are thinking of organizing a day trip to Ephesus and the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography

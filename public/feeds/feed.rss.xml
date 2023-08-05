@@ -10,13 +10,13 @@
     xml:lang="en-us"
     xml:base="http://example.org/">
     <channel>
-        <title type="html"><![CDATA[Retreat to Nesin Village]]></title>
+        <title type="html"><![CDATA[Nesin Village Retreat]]></title>
     </channel>
     <link type="text/html">http://example.org/</link>
     
     <image>
         <url>http://example.org/img/open-graph-logo_hu649006a96c7f6a02c0a48e2d90a9a7b0_5229_96x96_resize_box_3.png</url>
-        <title type="html"><![CDATA[Retreat to Nesin Village]]></title>
+        <title type="html"><![CDATA[Nesin Village Retreat]]></title>
         <link>http://example.org/</link>
         <width>96</width>
         <height>96</height>

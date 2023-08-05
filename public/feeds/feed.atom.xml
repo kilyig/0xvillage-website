@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-us" xml:base="http://example.org/">
-    <title type="html"><![CDATA[Retreat to Nesin Village]]></title>
+    <title type="html"><![CDATA[Nesin Village Retreat]]></title>
     <subtitle type="html"><![CDATA[Retreat to the Nesin Village after Devconnect]]></subtitle>
     <link href="/" rel="alternate" type="text/html" title="HTML" />
     <link href="/feeds/feed.atom.xml" rel="self" type="text/xml" title="Atom" />
