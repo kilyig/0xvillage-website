@@ -1,5 +1,6 @@
 ---
 title: "Nesin Village Retreat"
+annotations: false # Disable annotation via hypothesis on this page
 ---
 
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}

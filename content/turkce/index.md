@@ -2,6 +2,7 @@
 title:
 pageTitle:
 semanticType:
+annotations: false # Disable annotation via hypothesis on this page
 ---
 
 {{< img src="../nesin-village-ana.jpg" alt="Nesin Village view" >}}
