@@ -1,3 +1,0 @@
-# robots.txt file for "Nesin Village Retreat" website, example.org
-User-agent: *
-Disallow: /
