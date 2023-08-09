@@ -30,7 +30,7 @@ Nesin Köyü. 30 kişi için yer ayırttık, şu an sponsor arayışındayız. K
 * Tek kişilik iki yatağı olan oda (1225 TL)
 * Koğuş (1050 TL)
 
-3 öğün yemek fiyatlara dahil. Odaların ve koğuşların fotoğraflarına [buradan](https://nesinkoyleri.org/galeri/) ulaşabilirsiniz.
+Fiyatlar bir günlük, ve 3 öğün yemek fiyatlara dahil. Odaların ve koğuşların fotoğraflarına [buradan](https://nesinkoyleri.org/galeri/) ulaşabilirsiniz.
 
 ## Ulaşım
 
