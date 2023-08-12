@@ -5,6 +5,12 @@ semanticType:
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
+### Bağlantılar
+* Duyurular için [Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
+* [Olası katılımcı formu](https://forms.gle/bvfUbDNhGPeg3GCR6).
+
+---
+
 {{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
 "Ethereumseverler" merhaba,
@@ -15,7 +21,7 @@ Katılımcı sayısını görece düşük (~30) tutmaya çalışıyoruz. Başvur
 
 Geziyi düzenleyenler ile irtibata geçmek isterseniz [Yiğit Kılıçoğlu](https://yigitkilicoglu.com)'na yazabilirsiniz. Yiğit bu işi yalnız yürütmüyor, kendisine yardım eden kuruluşların isimleri yakın zamanda açıklanacak.
 
-**Bu geziye başvurmanız olası ise (%5 olasılık yeterli) [bu formu](https://forms.gle/bvfUbDNhGPeg3GCR6) doldurarak hesap yapmamızı kolaylaştırabilirsiniz. [Telegram grubumuza](https://t.me/+u6Mfogc8KtI0NWEx) da katılabilirsiniz. Formu doldurursanız geziye katılma sözü vermiş olmuyorsunuz, merak etmeyin. Geziye ne kadar talep olduğunu anlamaya çalışıyoruz sadece.**
+**Bu geziye başvurmanız olası ise (%5 olasılık yeterli) [bu formu](https://forms.gle/bvfUbDNhGPeg3GCR6) doldurarak hesap yapmamızı kolaylaştırabilirsiniz. [Telegram grubumuza](https://t.me/+u6Mfogc8KtI0NWEx) da katılabilirsiniz. Formu doldurursanız veya Telegram grubuna katılırsanız geziye katılma sözü vermiş olmuyorsunuz, merak etmeyin. Geziye ne kadar talep olduğunu anlamaya çalışıyoruz sadece.**
 
 ## Tarih
 

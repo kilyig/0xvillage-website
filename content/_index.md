@@ -3,6 +3,12 @@ title: "Nesin Village Retreat"
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
+### Quick links
+* [Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the retreat!
+* [Interest form](https://forms.gle/bvfUbDNhGPeg3GCR6).
+
+---
+
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
 
 Hello friends of Ethereum,

@@ -63,6 +63,7 @@
     ],
     "ids": [
       "acknowledgements",
+      "bağlantılar",
       "dates",
       "hypothesis-link",
       "kaynakça",
@@ -72,6 +73,7 @@
       "main",
       "menu-main-english",
       "menu-main-turkce",
+      "quick-links",
       "schema-data",
       "sidebar",
       "sidebar-checkbox",
