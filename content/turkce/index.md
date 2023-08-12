@@ -5,7 +5,7 @@ semanticType:
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
-{{< img src="../nesin-village-ana.jpg" alt="Nesin Village view" >}}
+{{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
 "Ethereumseverler" merhaba,
 
@@ -32,6 +32,16 @@ Nesin Köyü. 30 kişi için yer ayırttık, şu an sponsor arayışındayız. K
 
 Fiyatlar bir günlük, ve 3 öğün yemek fiyatlara dahil. Odaların ve koğuşların fotoğraflarına [buradan](https://nesinkoyleri.org/galeri/) ulaşabilirsiniz.
 
+---
+
+Köy'ün yakınlarındaki antik kent Efes:
+
+{{< img src="../Ephesus_Celsus.jpg" alt="Köy'ün yakınlarındaki antik kent Efes" >}}
+
+Köy'ün hemen yanındaki köy Şirince:
+
+{{< img src="../Sirince.jpeg" alt="Köy'ün hemen yanındaki köy Şirince" >}}
+
 ## Ulaşım
 
 İstanbul'dan Köy'e gidiş:
@@ -55,7 +65,13 @@ Sunum yapmak isteyenler için örnek konular:
 * Yeni kriptografik ilkeller (VDF'ler gibi)
 * Mutabakat mekanizmaları
 
-{{< img src="../nesin-kutuphane.png" alt="Nesin Village library" >}}
+---
+
+Köy'ün kütüphanesi:
+
+{{< img src="../nesin-kutuphane.png" alt="Köy'ün kütüphanesi" >}}
 
 ## Kaynakça
-Bu sayfadaki fotoğraflar Köy'ün internet sitesinden alınmıştır.
+* Bu sayfadaki ilk ve son fotoğraflar Köy'ün internet sitesinden alınmıştır.
+* Diğer ikisi Vikipedi'den alınmıştır. Efes fotoğrafı için [buraya](https://en.wikipedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg), Şirince fotoğrafı için [buraya](https://commons.wikimedia.org/wiki/File:Sirince_Overview_2012.jpg) tıklayabilirsiniz.
+

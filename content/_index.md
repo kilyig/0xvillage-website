@@ -30,6 +30,17 @@ We have reserved accommodation for 30 people, and are currently looking for fund
 * Room with double bed or two single beds: ~57 USD per person.
 * "Dormitory" with many bunk beds: ~42 USD per person
 
+---
+
+Ephesus, the ancient city nearby that we are planning to visit:
+
+{{< img src="Ephesus_Celsus.jpg" alt="Ephesus Celsus Library" >}}
+
+Şirince, the village next to the Nesin Village:
+
+{{< img src="Sirince.jpeg" alt="Şirince, the village next to the Nesin Village" >}}
+
+
 ## Travel
 
 Travel from Istanbul to the Village will look like the following:
@@ -44,7 +55,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, chill with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. Additionally, we are thinking of organizing a day trip to Ephesus and/or to the nearby village of Şirince.
+Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, chill with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are thinking of organizing a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
@@ -53,7 +64,12 @@ Topic suggestions for talks:
 * Newer cryptographic primitives (e.g. VDFs)
 * Classical consensus mechanisms
 
+---
+
+The library of the Nesin Village:
+
 {{< img src="nesin-kutuphane.png" alt="Nesin Village library" >}}
 
 ## Acknowledgements
-The photos on this page have been taken from the website of Nesin Village.
+* The first and last photos on this page were taken from the website of Nesin Village.
+* The other two photos were taken from Wikipedia. For the photo for Ephesus, click [here](https://en.wikipedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg). For the photo for Şirince, click [here](https://commons.wikimedia.org/wiki/File:Sirince_Overview_2012.jpg).
