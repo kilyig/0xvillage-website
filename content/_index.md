@@ -55,7 +55,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, chill with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are thinking of organizing a day trip to Ephesus and/or to the nearby village of Şirince.
+Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, chill with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
