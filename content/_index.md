@@ -33,7 +33,7 @@ The retreat will take place in the [Nesin Mathematics Village](https://nesinkoyl
 
 We have reserved accommodation for 30 people, and are currently looking for funding. All accommodation is in the Village premises. Photos of the houses and dormitories can be found [here](https://nesinkoyleri.org/en/gallery/). Daily prices (accommodation + 3 meals) are as follows:
 * Private room: ~60 USD per person.
-* Room with double bed or two single beds: ~57 USD per person.
+* Room with double bed or two single beds: ~49 USD per person.
 * "Dormitory" with many bunk beds: ~42 USD per person
 
 ---
