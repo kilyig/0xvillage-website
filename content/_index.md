@@ -5,7 +5,7 @@ annotations: false # Disable annotation via hypothesis on this page
 
 ### Quick links
 * [Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the retreat!
-* [Interest form](https://forms.gle/bvfUbDNhGPeg3GCR6).
+* [Interest form](https://forms.gle/LwiE2T1vm7r37mah9).
 
 ---
 
@@ -21,7 +21,7 @@ We are targeting a modest participant count (around 30), with priority given to 
 
 Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you want to reach out to the organizers. Yiğit is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
 
-**If you feel like you might consider applying to this retreat, please let us know by filling out the [interest form](https://forms.gle/bvfUbDNhGPeg3GCR6). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
+**If you feel like you might consider applying to this retreat, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
 ## Dates
 
