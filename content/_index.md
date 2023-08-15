@@ -15,7 +15,7 @@ Hello friends of Ethereum,
 
 After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to a unique location: the Nesin Mathematics Village. Situated among the mountains in Western Turkey, this non-profit village is dedicated to mathematics, philosophy, and the arts.
 
-This retreat offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of chilling back home, come to the Nesin Village and chill with us!
+This retreat offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
 
 We are targeting a modest participant count (around 30), with priority given to researchers and engineers who are currently working on crypto-related technical projects. University students studying related fields are also encouraged to apply.
 
@@ -61,7 +61,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, chill with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
+Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place to observe the stars. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
