@@ -15,13 +15,13 @@ annotations: false # Disable annotation via hypothesis on this page
 
 "Ethereumseverler" merhaba,
 
-Devconnect'ten hemen sonra Nesin Köyü'ne bir gezi düzenliyoruz. Bir haftalık yoğun bir konferanstan sonra herkesin dinlenmeye ihtiyacı olacağını düşünüyoruz. Bir yandan dinlenip diğer yandan sohbet edip çalışmak için Köy'den daha iyi bir yer yok.
+Devconnect'ten hemen sonra Nesin Köyü'nde bir program düzenliyoruz. Bir haftalık yoğun bir konferanstan sonra herkesin dinlenmeye ihtiyacı olacağını düşünüyoruz. Bir yandan dinlenip diğer yandan sohbet edip çalışmak için Köy'den daha iyi bir yer yok.
 
 Katılımcı sayısını görece düşük (~30) tutmaya çalışıyoruz. Başvurular herkese açık olacak fakat araştırmacılara, mühendislere ve ilgili dallarda okuyan lisans ve lisansüstü öğrencilerine biraz öncelik tanınacak.
 
 Geziyi düzenleyenler ile irtibata geçmek isterseniz [Yiğit Kılıçoğlu](https://yigitkilicoglu.com)'na yazabilirsiniz. Yiğit bu işi yalnız yürütmüyor, kendisine yardım eden kuruluşların isimleri yakın zamanda açıklanacak.
 
-**Bu geziye başvurmanız olası ise (%5 olasılık yeterli) [bu formu](https://forms.gle/LwiE2T1vm7r37mah9) doldurarak hesap yapmamızı kolaylaştırabilirsiniz. [Telegram grubumuza](https://t.me/+u6Mfogc8KtI0NWEx) da katılabilirsiniz. Formu doldurursanız veya Telegram grubuna katılırsanız geziye katılma sözü vermiş olmuyorsunuz, merak etmeyin. Geziye ne kadar talep olduğunu anlamaya çalışıyoruz sadece.**
+**Bu programa başvurmanız olası ise (%5 olasılık yeterli) [bu formu](https://forms.gle/LwiE2T1vm7r37mah9) doldurarak hesap yapmamızı kolaylaştırabilirsiniz. [Telegram grubumuza](https://t.me/+u6Mfogc8KtI0NWEx) da katılabilirsiniz. Formu doldurursanız veya Telegram grubuna katılırsanız programa katılma sözü vermiş olmuyorsunuz, merak etmeyin. Geziye ne kadar talep olduğunu anlamaya çalışıyoruz sadece.**
 
 ## Tarih
 

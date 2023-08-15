@@ -1,10 +1,10 @@
 ---
-title: "Nesin Village Retreat"
+title: "Ethereum x Nesin Village"
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
 ### Quick links
-* [Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the retreat!
+* [Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the program!
 * [Interest form](https://forms.gle/LwiE2T1vm7r37mah9).
 
 ---
@@ -15,13 +15,13 @@ Hello friends of Ethereum,
 
 After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to a unique location: the Nesin Mathematics Village. Situated among the mountains in Western Turkey, this non-profit village is dedicated to mathematics, philosophy, and the arts.
 
-This retreat offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
+This program offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
 
 We are targeting a modest participant count (around 30), with priority given to researchers and engineers who are currently working on crypto-related technical projects. University students studying related fields are also encouraged to apply.
 
 Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you want to reach out to the organizers. Yiğit is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
 
-**If you feel like you might consider applying to this retreat, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
+**If you feel like you might consider applying to this program, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
 ## Dates
 
@@ -29,7 +29,7 @@ Participants will be able to arrive starting on 19 November, and we will be leav
 
 ## Location and Accommodation
 
-The retreat will take place in the [Nesin Mathematics Village](https://nesinkoyleri.org/en/main-page/), a non-profit village dedicated to math, philosophy and the arts. It's a picturesque place not far from the [ancient city of Ephesus](https://en.wikipedia.org/wiki/Ephesus) and the [Temple of Artemis](https://en.wikipedia.org/wiki/Temple_of_Artemis), one of the Seven Wonders of the Ancient World. It is like Smurfs but with math. Classes run the entire year (check the [summer undergraduate/graduate program](https://nesinkoyleri.org/en/events/2023-nmk-undergraduate-and-graduate-summer-camp/)). This retreat will be an [independent event](https://nesinkoyleri.org/en/organise-an-event/) in the Village. For a firsthand story of the Village, check out Ali Nesin’s [Leelavati Prize Lecture](https://www.youtube.com/watch?v=XI4RwMmLQHQ).
+The program will take place in the [Nesin Mathematics Village](https://nesinkoyleri.org/en/main-page/), a non-profit village dedicated to math, philosophy and the arts. It's a picturesque place not far from the [ancient city of Ephesus](https://en.wikipedia.org/wiki/Ephesus) and the [Temple of Artemis](https://en.wikipedia.org/wiki/Temple_of_Artemis), one of the Seven Wonders of the Ancient World. It is like Smurfs but with math. Classes run the entire year (check the [summer undergraduate/graduate program](https://nesinkoyleri.org/en/events/2023-nmk-undergraduate-and-graduate-summer-camp/)). This program will be an [independent event](https://nesinkoyleri.org/en/organise-an-event/) in the Village. For a firsthand story of the Village, check out Ali Nesin’s [Leelavati Prize Lecture](https://www.youtube.com/watch?v=XI4RwMmLQHQ).
 
 We have reserved accommodation for 30 people, and are currently looking for funding. All accommodation is in the Village premises. Photos of the houses and dormitories can be found [here](https://nesinkoyleri.org/en/gallery/). Daily prices (accommodation + 3 meals) are as follows:
 * Private room: ~60 USD per person.
@@ -61,7 +61,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place for stargazing. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
+Participants will virtually have complete freedom. We expect the main benefits of the program to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place for stargazing. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
