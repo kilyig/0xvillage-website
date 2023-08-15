@@ -23,13 +23,6 @@ Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you w
 
 **If you feel like you might consider applying to this retreat, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
-## Reasons to come
-* The Village is one of a kind. It regularly serves as a meeting point for the math community in Turkey, and many  
-
-* For younger participants, this is a great way to 
-* Older participants will be able to spot 
-* 
-
 ## Dates
 
 Participants will be able to arrive starting on 19 November, and we will be leaving the Village on 23 November. Coming to the Village on 20 November and/or leaving early is acceptable. The trip date might later be extended for interested participants.
