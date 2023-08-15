@@ -5,7 +5,7 @@ annotations: false # Disable annotation via hypothesis on this page
 
 ### Quick links
 * [Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the program!
-* [Interest form](https://forms.gle/LwiE2T1vm7r37mah9).
+* [Interest form](https://forms.gle/LwiE2T1vm7r37mah9)
 
 ---
 
