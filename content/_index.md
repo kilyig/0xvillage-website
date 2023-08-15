@@ -23,6 +23,13 @@ Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you w
 
 **If you feel like you might consider applying to this retreat, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
 
+## Reasons to come
+* The Village is one of a kind. It regularly serves as a meeting point for the math community in Turkey, and many  
+
+* For younger participants, this is a great way to 
+* Older participants will be able to spot 
+* 
+
 ## Dates
 
 Participants will be able to arrive starting on 19 November, and we will be leaving the Village on 23 November. Coming to the Village on 20 November and/or leaving early is acceptable. The trip date might later be extended for interested participants.
@@ -61,7 +68,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place to observe the stars. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
+Participants will virtually have complete freedom. We expect the main benefits of the retreat to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place for stargazing. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
