@@ -69,7 +69,7 @@ assets:
   apple_touch_icon: ''
 
   # Logo image, relative to ./assets
-  logo: /img/open-graph-logo.png
+  logo: 
   disable_fingerprinting: false
 
 seo:
