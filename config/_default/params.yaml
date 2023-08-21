@@ -71,7 +71,7 @@ assets:
   apple_touch_icon: ''
 
   # Logo image, relative to ./assets
-  logo: ../content/nesin-village-ana.jpg
+  logo: 
   disable_fingerprinting: false
 
 seo:
