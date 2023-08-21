@@ -62,16 +62,16 @@ contact:
 # Site icons, relative to ./static
 assets:
   # favicon.ico for legacy browsers
-  favicon: 'favicon.ico'
+  favicon: /louislu-graph-logo.png
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: 'favicon.svg'
+  svgicon: /louislu-graph-logo.svg
 
   # 180×180 PNG image for Apple devices
-  apple_touch_icon: ''
+  apple_touch_icon: /louislu-graph-logo-apple.png
 
   # Logo image, relative to ./assets
-  logo: 
+  logo: /louislu-graph-logo.png
   disable_fingerprinting: false
 
 seo:
