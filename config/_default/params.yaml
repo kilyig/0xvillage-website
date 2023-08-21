@@ -65,7 +65,7 @@ assets:
   favicon: 'favicon.ico'
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: 'test.svg'
+  svgicon: 'onderkilicoglu.svg'
 
   # 180×180 PNG image for Apple devices
   apple_touch_icon: ''
