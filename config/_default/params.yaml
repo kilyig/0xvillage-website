@@ -65,13 +65,13 @@ assets:
   favicon: 'favicon.ico'
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: 'onderkilicoglu.svg'
+  svgicon: 'favicon.svg'
 
   # 180×180 PNG image for Apple devices
   apple_touch_icon: ''
 
   # Logo image, relative to ./assets
-  logo: 
+  logo: ../content/nesin-village-ana.jpg
   disable_fingerprinting: false
 
 seo:
