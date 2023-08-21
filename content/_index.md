@@ -1,6 +1,7 @@
 ---
 title: "0xVillage"
 annotations: false # Disable annotation via hypothesis on this page
+featuredImage: nesin-village-ana.jpg
 ---
 
 ### Quick links
