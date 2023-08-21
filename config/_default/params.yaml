@@ -5,9 +5,11 @@ description: >-
 # SEO keywords. Used in 'meta name="keywords"' tag.
 # May be overridden by .Keywords or .Tags in front matter.
 keywords:
-  - onder
-  - kilicoglu
-  - onder kilicoglu
+  - nesin village
+  - 0xvillage
+  - crypto
+  - ethereum
+  - math
 
 # A "copyright"-line to be added to RSS/Atom files.
 # "&copy;" and "{year}" will be replaced by © and the current year.
@@ -63,7 +65,7 @@ assets:
   favicon: 'favicon.ico'
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: 'favicon.svg'
+  svgicon: 'test.svg'
 
   # 180×180 PNG image for Apple devices
   apple_touch_icon: ''
