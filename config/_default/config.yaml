@@ -10,7 +10,7 @@ defaultContentLanguage: en
 #
 # NB: Final title of shareable pages will be this plus the
 #     title of the page. Eg. "Contacts - Ed."
-title: Ethereum x Nesin Village
+title: 0xKöy / 0xVillage
 
 # Use full path to theme's repository in case of using Hugo Modules.
 # This is replaced in go.mod for exampleSite to point to the directory above.

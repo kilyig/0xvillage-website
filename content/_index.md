@@ -1,5 +1,5 @@
 ---
-title: "Ethereum x Nesin Village"
+title: "0xVillage"
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
