@@ -1,5 +1,5 @@
 ---
-title: "0xKöy"
+title:
 pageTitle:
 semanticType:
 annotations: false # Disable annotation via hypothesis on this page

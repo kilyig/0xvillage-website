@@ -1,5 +1,5 @@
 ---
-title: "0xVillage"
+title:
 annotations: false # Disable annotation via hypothesis on this page
 featuredImage:
 ---
@@ -16,13 +16,25 @@ Hello friends of Ethereum,
 
 After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to a unique location: the Nesin Mathematics Village. Situated among the mountains in Western Turkey, this non-profit village is dedicated to mathematics, philosophy, and the arts.
 
-This program offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a prominent math community in Turkey. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
+This program offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a central hub of the Turkish math community. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
 
-We are targeting a modest participant count (around 30), with priority given to researchers and engineers who are currently working on crypto-related technical projects. University students studying related fields are also encouraged to apply.
+The long-term goal of this program is to start a long-lasting relationship between Ethereum and the Turkish math community that will enable many researchers from the region to discover web3. We will call this program a success if it leads to the organization of a series of Ethereum-related events in the Village and/or across the region.
+
+We are targeting a modest participant count (around 30), with priority given to researchers, engineers and university students who work on or are interested in working on Ethereum.
 
 Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you want to reach out to the organizers. Yiğit is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
 
 **If you feel like you might consider applying to this program, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
+
+---
+
+## Reasons to come
+* If you are a researcher or an engineer, you will be able to collaborate with other professionals in the field in a unique setting dedicated to academic research. You will also meet young and talented individuals who are interested in your work.
+* If you are a younger participant, you will be able to find research groups that you can join, and learn about the latest challenges in the space. 
+* The Math Village is active throughout the year. Professionals from a wide range of backgrounds regularly come to the Village to teach classes (check the [summer undergraduate/graduate program](https://nesinkoyleri.org/en/events/2023-nmk-undergraduate-and-graduate-summer-camp/)). Would you consider coming to the Village for a week or two over a summer and teach your area of expertise while holidaying? If yes, the 0xVillage is a great opportunity for you to get to know the Village and its people.
+* Is your organization looking for a place to organize a research program? The Village might be a fitting place to do it. 0xVillage will give you a chance to see the resources that the Village offers. 
+* If you were unable to present your work in past conferences, 0xVillage will be the perfect place for you to finally do it.
+* Western Turkey is full of history and natural beauty.
 
 ## Dates
 
@@ -62,7 +74,7 @@ For other details, check out the Village's [guide](https://nesinkoyleri.org/en/h
 
 ## Structure
 
-Participants will virtually have complete freedom. We expect the main benefits of the program to come from the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. The Village also happens to be a great place for stargazing. While chalkboard math sessions and higher-level talks on current research topics will be encouraged, attendance at these activities will be entirely optional. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
+We expect the main immediate benefits of the program to come from the research talks and the informal discussions between participants. You could check the [vast collection](https://nesinkoyleri.org/en/library-catalogue/) of the math library, hang out with other participants while drinking Turkish tea, or explore the surrounding regions. It all depends on what you make of it. Researchers and engineers will be asked to give presentations regarding their research, but the exact format will be up for them to decide (the Village is known for its chalkboards). Other participants will be encouraged to share their work, too. A typical day will consist of a few talks before lunch and collaboration time in the afternoon. Importantly, participants of 0xVillage will be able to interact with the participants of other concurrent programs if there will be any. There will be no exhibit booths or distractions. Additionally, we are planning to organize a day trip to Ephesus and/or to the nearby village of Şirince.
 
 Topic suggestions for talks:
 * Group theory for cryptography
