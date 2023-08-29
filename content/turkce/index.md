@@ -13,6 +13,8 @@ annotations: false # Disable annotation via hypothesis on this page
 
 {{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
+**Uyarı: Bu sayfa şu an İngilizce versiyonuyla güncel değil. Lütfen şimdilik diğer sayfaya bakın.**
+
 "Ethereumseverler" merhaba,
 
 Devconnect'ten hemen sonra Nesin Köyü'nde bir program düzenliyoruz. Bir haftalık yoğun bir konferanstan sonra herkesin dinlenmeye ihtiyacı olacağını düşünüyoruz. Bir yandan dinlenip diğer yandan sohbet edip çalışmak için Köy'den daha iyi bir yer yok.
