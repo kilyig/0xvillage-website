@@ -68,7 +68,7 @@ assets:
   svgicon: /0xV.svg
 
   # 180×180 PNG image for Apple devices
-  apple_touch_icon: /louislu-graph-logo-apple-new.png
+  apple_touch_icon: /0xV-apple.png
 
   # Logo image, relative to ./assets
   logo: /0xV.png
