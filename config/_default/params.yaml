@@ -65,7 +65,7 @@ assets:
   favicon: /0xV.png
 
   # A single SVG icon with a light/dark version for modern browsers
-  svgicon: /louislu-graph-logo.svg
+  svgicon: /0xV.svg
 
   # 180×180 PNG image for Apple devices
   apple_touch_icon: /louislu-graph-logo-apple-new.png
