@@ -8,7 +8,7 @@ featuredImage:
 
 Research talks at the Nesin Math Village in Western Turkey right after Devconnect (19-23 November).
 
-* [Application form](https://forms.gle/LwiE2T1vm7r37mah9).
+* [Application form](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
 
 ---
@@ -27,7 +27,7 @@ We are targeting a modest participant count, with priority given to researchers,
 
 This program is being organized by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with significant help from Nour Assili from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) and Ulaş Erdoğan.
 
-**[Applications are now open!](https://forms.gle/LwiE2T1vm7r37mah9) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
+**[Applications are now open!](https://forms.gle/wzvzbdRVc6pbpTXUA) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
 
 ---
 

@@ -9,7 +9,7 @@ annotations: false # Disable annotation via hypothesis on this page
 
 Devconnect sonrası (19-23 Kasım) Nesin Matematik Köyü'nde araştırma programı.
 
-* [Başvuru formu](https://forms.gle/LwiE2T1vm7r37mah9).
+* [Başvuru formu](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * Duyurular ve sorular için [herkese açık Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
 
 ---
