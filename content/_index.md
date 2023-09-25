@@ -6,8 +6,10 @@ featuredImage:
 
 ### TL;DR
 
-* [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates. Joining the group chat is not a commitment to attend the program!
-* [Interest form](https://forms.gle/LwiE2T1vm7r37mah9).
+Research talks at the Nesin Math Village in Western Turkey right after Devconnect (19-23 November).
+
+* [Application form](https://forms.gle/LwiE2T1vm7r37mah9).
+* [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
 
 ---
 
@@ -15,17 +17,17 @@ featuredImage:
 
 Hello friends of Ethereum,
 
-After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to a unique location: the Nesin Mathematics Village. Situated among the mountains in Western Turkey, this non-profit village is dedicated to mathematics, philosophy, and the arts.
+After Devconnect, your Turkish friends are offering you an opportunity to extend your visit in Turkey to the non-profit [Nesin Mathematics Village](https://nesinkoyleri.org/en/main-page/), among the mountains in Western Turkey.
 
-This program offers a change of pace, where people can unwind after Devconnect and actually delve into deeper discussions. Participants will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a central hub of the Turkish math community. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
+This program offers a change of pace, where people will be able to rest, discover Western Turkey, discuss ideas in an uninterrupted setting, and get to know a central hub of the Turkish math community. Instead of returning home right after Devconnect, come to the Nesin Village and hang out with us!
 
 The long-term goal of this program is to start a long-lasting relationship between Ethereum and the Turkish math community that will enable many researchers from the region to discover web3. We will call this program a success if it leads to the organization of a series of Ethereum-related events in the Village and/or across the region.
 
-We are targeting a modest participant count (around 30), with priority given to researchers, engineers and university students who work on or are interested in working on Ethereum.
+We are targeting a modest participant count, with priority given to researchers, engineers and university students who work on or are interested in working on Ethereum.
 
-Feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) if you want to reach out to the organizers. Yiğit is receiving extensive support from several organizations. The names of these organizations will be announced in the near future.
+This program is being organized by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with significant help from Nour Assili from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) and Ulaş Erdoğan.
 
-**If you feel like you might consider applying to this program, please let us know by filling out the [interest form](https://forms.gle/LwiE2T1vm7r37mah9). Also feel free to join our [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where we will be sharing updates. Expressing interest does not entail a firm commitment, but it will assist us in making necessary arrangements with the Village.**
+**[Applications are now open!](https://forms.gle/LwiE2T1vm7r37mah9) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
 
 ---
 

@@ -5,15 +5,18 @@ semanticType:
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
-### Bağlantılar
-* Duyurular için [Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
-* [Olası katılımcı formu](https://forms.gle/LwiE2T1vm7r37mah9).
+### Özet
+
+Devconnect sonrası (19-23 Kasım) Nesin Matematik Köyü'nde araştırma programı.
+
+* [Başvuru formu](https://forms.gle/LwiE2T1vm7r37mah9).
+* Duyurular ve sorular için [herkese açık Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
 
 ---
 
 {{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
-**Uyarı: Bu sayfa şu an İngilizce versiyonuyla güncel değil. Lütfen şimdilik diğer sayfaya bakın.**
+**Uyarı: Bu sayfa şu an İngilizce karşılığıyla güncel değil. Lütfen şimdilik diğer sayfaya bakın.**
 
 "Ethereumseverler" merhaba,
 

@@ -63,7 +63,6 @@
     ],
     "ids": [
       "acknowledgements",
-      "bağlantılar",
       "dates",
       "hypothesis-link",
       "kaynakça",
@@ -83,7 +82,8 @@
       "top-of-site",
       "top-of-site-anchor",
       "travel",
-      "ulaşım"
+      "ulaşım",
+      "özet"
     ]
   }
 }
