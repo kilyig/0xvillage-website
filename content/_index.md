@@ -4,6 +4,8 @@ annotations: false # Disable annotation via hypothesis on this page
 featuredImage:
 ---
 
+{{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
+
 ### TL;DR
 
 Research talks at the Nesin Math Village in Western Turkey right after Devconnect (19-23 November).
@@ -16,8 +18,6 @@ We thank the Ethereum Ecosystem Development Program for their support.
 {{< img src="esp.svg" alt="ESP logo" >}}
 
 ---
-
-{{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
 
 Hello friends of Ethereum,
 
