@@ -11,6 +11,10 @@ Research talks at the Nesin Math Village in Western Turkey right after Devconnec
 * [Application form](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
 
+We thank the Ethereum Ecosystem Development Program for their support.
+
+{{< img src="esp.svg" alt="ESP logo" >}}
+
 ---
 
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
