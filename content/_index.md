@@ -8,7 +8,7 @@ featuredImage:
 
 ### TL;DR
 
-Research talks at the Nesin Math Village in Western Turkey right after Devconnect (19-23 November).
+Research talks on crypto at the Nesin Math Village in Western Turkey right after Devconnect (19-23 November).
 
 * [Application form](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
@@ -29,7 +29,7 @@ The long-term goal of this program is to start a long-lasting relationship betwe
 
 We are targeting a modest participant count, with priority given to researchers, engineers and university students who work on or are interested in working on Ethereum.
 
-This program is being organized by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with significant help from Nour Assili from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) and Ulaş Erdoğan.
+This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [Nour Assili](https://nourassili.com/) from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) as co-organizer. We thank [Ulaş Erdoğan](https://0xulas.eth.limo/) for his significant support.
 
 **[Applications are now open!](https://forms.gle/wzvzbdRVc6pbpTXUA) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
 
@@ -45,16 +45,16 @@ This program is being organized by [Yiğit Kılıçoğlu](https://yigitkilicoglu
 
 ## Dates
 
-Participants will be able to arrive starting on 19 November, and we will be leaving the Village on 23 November. Coming to the Village on 20 November and/or leaving early is acceptable. The trip date might later be extended for interested participants.
+Participants will be able to arrive starting on 19 November, and we will be leaving the Village on 23 November. The trip date might later be extended for interested participants.
 
 ## Location and Accommodation
 
 The program will take place in the [Nesin Mathematics Village](https://nesinkoyleri.org/en/main-page/), a non-profit village dedicated to math, philosophy and the arts. It's a picturesque place not far from the [ancient city of Ephesus](https://en.wikipedia.org/wiki/Ephesus) and the [Temple of Artemis](https://en.wikipedia.org/wiki/Temple_of_Artemis), one of the Seven Wonders of the Ancient World. It is like Smurfs but with math. Classes run the entire year (check the [summer undergraduate/graduate program](https://nesinkoyleri.org/en/events/2023-nmk-undergraduate-and-graduate-summer-camp/)). This program will be an [independent event](https://nesinkoyleri.org/en/organise-an-event/) in the Village. For a firsthand story of the Village, check out Ali Nesin’s [Leelavati Prize Lecture](https://www.youtube.com/watch?v=XI4RwMmLQHQ).
 
-We have reserved accommodation for 30 people, and are currently looking for funding. All accommodation is in the Village premises. Photos of the houses and dormitories can be found [here](https://nesinkoyleri.org/en/gallery/). Daily prices (accommodation + 3 meals) are as follows:
+We have reserved accommodation for 30 people. All accommodation is in the Village premises. Photos of the houses and dormitories can be found [here](https://nesinkoyleri.org/en/gallery/). Daily prices (accommodation + 3 meals) are as follows:
 * Private room: ~60 USD per person.
 * Room with double bed or two single beds: ~49 USD per person.
-* "Dormitory" with many bunk beds: ~42 USD per person
+* "Dormitory" with multiple bunk beds: ~42 USD per person
 
 ---
 

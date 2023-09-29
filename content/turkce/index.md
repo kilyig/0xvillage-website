@@ -7,34 +7,39 @@ annotations: false # Disable annotation via hypothesis on this page
 
 ### Özet
 
-Devconnect sonrası (19-23 Kasım) Nesin Matematik Köyü'nde araştırma programı.
+Devconnect sonrası (19-23 Kasım) [Nesin Matematik Köyü](https://nesinkoyleri.org)'nde bir araştırma programı.
 
 * [Başvuru formu](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * Duyurular ve sorular için [herkese açık Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
+
+Ethereum Ekosistem Geliştirme Programı'na desteğinden ötürü teşekkür ediyoruz. 
+
+{{< img src="../esp.svg" alt="ESP logo" >}}
+
 
 ---
 
 {{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
-**Uyarı: Bu sayfa şu an İngilizce karşılığıyla güncel değil. Lütfen şimdilik diğer sayfaya bakın.**
-
 "Ethereumseverler" merhaba,
 
 Devconnect'ten hemen sonra Nesin Köyü'nde bir program düzenliyoruz. Bir haftalık yoğun bir konferanstan sonra herkesin dinlenmeye ihtiyacı olacağını düşünüyoruz. Bir yandan dinlenip diğer yandan sohbet edip çalışmak için Köy'den daha iyi bir yer yok.
 
-Katılımcı sayısını görece düşük (~30) tutmaya çalışıyoruz. Başvurular herkese açık olacak fakat araştırmacılara, mühendislere ve ilgili dallarda okuyan lisans ve lisansüstü öğrencilerine biraz öncelik tanınacak.
+Önümüzdeki yıllarda Nesin Köyü ve Ethereum topluluğunun işbirliği yapabileceğini öngörüyoruz. 0xKöy'ü düzenleyerek iki tarafın birbiriyle tanışmasını sağlamayı amaçlıyoruz. 
 
-Geziyi düzenleyenler ile irtibata geçmek isterseniz [Yiğit Kılıçoğlu](https://yigitkilicoglu.com)'na yazabilirsiniz. Yiğit bu işi yalnız yürütmüyor, kendisine yardım eden kuruluşların isimleri yakın zamanda açıklanacak.
+Katılımcı sayısını görece düşük tutmaya çalışıyoruz. Başvurular herkese açık olacak fakat araştırmacılara, mühendislere ve ilgili dallarda okuyan lisans ve lisansüstü öğrencilerine biraz öncelik tanınacak.
 
-**Bu programa başvurmanız olası ise (%5 olasılık yeterli) [bu formu](https://forms.gle/LwiE2T1vm7r37mah9) doldurarak hesap yapmamızı kolaylaştırabilirsiniz. [Telegram grubumuza](https://t.me/+u6Mfogc8KtI0NWEx) da katılabilirsiniz. Formu doldurursanız veya Telegram grubuna katılırsanız programa katılma sözü vermiş olmuyorsunuz, merak etmeyin. Geziye ne kadar talep olduğunu anlamaya çalışıyoruz sadece.**
+0xKöy'ü [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) ve [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)'dan [Nour Assili](https://nourassili.com/) düzenliyor. Her türlü soru için Yiğit ile iletişime geçebilirsiniz. [Ulaş Erdoğan](https://0xulas.eth.limo/)'a desteğinden dolayı çok teşekkür ediyoruz.
+
+**[Başvurular açıldı!](https://forms.gle/wzvzbdRVc6pbpTXUA) Güncellemeler için herkese açık [Telegram grubuna](https://t.me/+u6Mfogc8KtI0NWEx) girebilirsiniz.**
 
 ## Tarih
 
-Köy'e 19 Kasım'da geleceğiz ama isteyen 20 Kasım'da da gelebilir. 23 Kasım'da ayrılacağız. Talep olması durumunda birkaç gün daha kalmak için Köy'den izin isteyebiliriz.
+Köy'e 19 Kasım'da geleceğiz, 23 Kasım'da ayrılacağız. Talep olması durumunda birkaç gün daha kalmak için Köy'den izin isteyebiliriz.
 
 ## Konum ve Konaklama
 
-Nesin Köyü. 30 kişi için yer ayırttık, şu an sponsor arayışındayız. Köy'deki konaklama seçenekleri:
+[Nesin Köyü](https://nesinkoyleri.org). 30 kişi için yer ayırttık. Köy'deki konaklama seçenekleri:
 
 * Özel oda (1500 TL)
 * İki kişilik yatağı olan oda  (1225 TL)
@@ -67,7 +72,7 @@ Ayrıntılı bilgi için Köy'ün [ulaşım sayfasına](https://nesinkoyleri.org
 
 ## Köy'de Yapılacaklar
 
-Katılımcılara her konuda özgürlük tanınacak, katılması zorunlu herhangi bir etkinlik olmayacak. Köy'deki zamanınızı nasıl geçireceğiniz tamamen size kalmış. İsterseniz sabahtan akşama Köy'ün [kütüphanesindeki kitaplara](https://nesinkoyleri.org/kutuphanemiz/) bakarsınız, isterseniz diğer katılımcılarla çay içip sohbet edersiniz, isterseniz yürüyüşe çıkarsınız. Katılımcıların çalıştıkları konular hakkında sunum yapmaları (kara tahtada da olur, slaytlarda da) çok hoş olur, bu tür etkinliklere bizle aynı zamanda Köy'de olacak diğer programları da (varsa) davet edebiliriz. Grupça Efes ve/veya Şirince'ye gitmeyi de planlıyoruz.
+Programa katılacak araştırmacılar ve mühendisler çalıştıkları konular hakkında sunum yapacaklar. Günün geri kalanını nasıl geçireceğiniz tamamen size kalmış. İsterseniz sabahtan akşama Köy'ün [kütüphanesindeki kitaplara](https://nesinkoyleri.org/kutuphanemiz/) bakarsınız, isterseniz diğer katılımcılarla çay içip sohbet edersiniz, isterseniz yürüyüşe çıkarsınız. Katılımcıların çalıştıkları konular hakkında sunum yapmaları (kara tahtada da olur, slaytlarda da) çok hoş olur, bu tür etkinliklere bizle aynı zamanda Köy'de olacak diğer programları da (varsa) davet edebiliriz. Grupça Efes ve/veya Şirince'ye gitmeyi de planlıyoruz.
 
 Sunum yapmak isteyenler için örnek konular:
 * Kriptografi için grup teorisi
