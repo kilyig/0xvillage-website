@@ -5,12 +5,14 @@ semanticType:
 annotations: false # Disable annotation via hypothesis on this page
 ---
 
+{{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
+
 ### Özet
 
 Devconnect sonrası (19-23 Kasım) [Nesin Matematik Köyü](https://nesinkoyleri.org)'nde bir araştırma programı.
 
 * [Başvuru formu](https://forms.gle/wzvzbdRVc6pbpTXUA).
-* Duyurular ve sorular için [herkese açık Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
+* Duyurular ve sorular için herkese açık [Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
 
 Ethereum Ekosistem Geliştirme Programı'na desteğinden ötürü teşekkür ediyoruz. 
 
@@ -18,8 +20,6 @@ Ethereum Ekosistem Geliştirme Programı'na desteğinden ötürü teşekkür edi
 
 
 ---
-
-{{< img src="../nesin-village-ana.jpg" alt="Köy'den manzara" >}}
 
 "Ethereumseverler" merhaba,
 
