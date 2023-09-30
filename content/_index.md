@@ -13,6 +13,8 @@ Research talks on crypto at the Nesin Math Village in Western Turkey right after
 * [Application form](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
 
+{{< img src="library_outside.png" alt="Library from outside" >}}
+
 ---
 
 Hello friends of Ethereum,

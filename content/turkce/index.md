@@ -14,6 +14,8 @@ Devconnect sonrası (19-23 Kasım) [Nesin Matematik Köyü](https://nesinkoyleri
 * [Başvuru formu](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * Duyurular ve sorular için herkese açık [Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
 
+{{< img src="../library_outside.png" alt="Library from outside" >}}
+
 ---
 
 "Ethereumseverler" merhaba,
