@@ -13,10 +13,6 @@ Research talks on crypto at the Nesin Math Village in Western Turkey right after
 * [Application form](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * [Public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) for updates from the organizers, questions from applicants, and general discussion.
 
-We thank the Ethereum Ecosystem Development Program for their support.
-
-{{< img src="esp.svg" alt="ESP logo" >}}
-
 ---
 
 Hello friends of Ethereum,
@@ -34,6 +30,13 @@ This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [
 **[Applications are now open!](https://forms.gle/wzvzbdRVc6pbpTXUA) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
 
 ---
+
+## Affiliations
+
+Special thanks to the Blockchain Acceleration Foundation for being a co-organizer and to the Ethereum Ecosystem Development Program for their financial support.
+
+{{< img src="baf_esp.png" alt="BAF and ESP logos" >}}
+
 
 ## Reasons to come
 * If you are a researcher or an engineer, you will be able to collaborate with other professionals in the field in a unique setting dedicated to academic research. You will also meet young and talented individuals who are interested in your work.

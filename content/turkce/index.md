@@ -14,11 +14,6 @@ Devconnect sonrası (19-23 Kasım) [Nesin Matematik Köyü](https://nesinkoyleri
 * [Başvuru formu](https://forms.gle/wzvzbdRVc6pbpTXUA).
 * Duyurular ve sorular için herkese açık [Telegram grubu](https://t.me/+u6Mfogc8KtI0NWEx).
 
-Ethereum Ekosistem Geliştirme Programı'na desteğinden ötürü teşekkür ediyoruz. 
-
-{{< img src="../esp.svg" alt="ESP logo" >}}
-
-
 ---
 
 "Ethereumseverler" merhaba,
@@ -32,6 +27,14 @@ Katılımcı sayısını görece düşük tutmaya çalışıyoruz. Başvurular h
 0xKöy'ü [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) ve [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)'dan [Nour Assili](https://nourassili.com/) düzenliyor. Her türlü soru için Yiğit ile iletişime geçebilirsiniz. [Ulaş Erdoğan](https://0xulas.eth.limo/)'a desteğinden dolayı çok teşekkür ediyoruz.
 
 **[Başvurular açıldı!](https://forms.gle/wzvzbdRVc6pbpTXUA) Güncellemeler için herkese açık [Telegram grubuna](https://t.me/+u6Mfogc8KtI0NWEx) girebilirsiniz.**
+
+---
+
+## İşbirlikleri
+
+Blockchain Acceleration Foundation'a düzenleme aşamasında her türlü yardımlarından ve Ethereum Ekosistem Geliştirme Programı'na mali desteğinden ötürü teşekkür ederiz.
+
+{{< img src="../baf_esp.png" alt="BAF and ESP logos" >}}
 
 ## Tarih
 
