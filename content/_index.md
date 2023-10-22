@@ -35,12 +35,11 @@ This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [
 
 ## Affiliations
 
-Special thanks to the Ethereum Ecosystem Development Program for their financial support.
-{{< img src="esp-logo.png" alt="ESP logo" >}}
-
 Special thanks to the Blockchain Acceleration Foundation for being a co-organizer.
 {{< img src="baf-logo.png" alt="BAF logo" >}}
 
+Special thanks to the Ethereum Ecosystem Development Program for their financial support.
+{{< img src="esp-logo.png" alt="ESP logo" >}}
 
 ## Reasons to come
 * If you are a researcher or an engineer, you will be able to collaborate with other professionals in the field in a unique setting dedicated to academic research. You will also meet young and talented individuals who are interested in your work.
