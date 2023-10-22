@@ -35,9 +35,11 @@ This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [
 
 ## Affiliations
 
-Special thanks to the Blockchain Acceleration Foundation for being a co-organizer and to the Ethereum Ecosystem Development Program for their financial support.
+Special thanks to the Ethereum Ecosystem Development Program for their financial support.
+{{< img src="esp-logo.png" alt="ESP logo" >}}
 
-{{< img src="baf_esp.png" alt="BAF and ESP logos" >}}
+Special thanks to the Blockchain Acceleration Foundation for being a co-organizer.
+{{< img src="baf-logo.png" alt="BAF logo" >}}
 
 
 ## Reasons to come

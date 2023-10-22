@@ -34,9 +34,13 @@ Katılımcı sayısını görece düşük tutmaya çalışıyoruz. Başvurular h
 
 ## İşbirlikleri
 
-Blockchain Acceleration Foundation'a düzenleme aşamasında her türlü yardımlarından ve Ethereum Ekosistem Geliştirme Programı'na mali desteğinden ötürü teşekkür ederiz.
+ Ethereum Ekosistem Geliştirme Programı'na mali desteğinden ötürü teşekkür ederiz.
 
-{{< img src="../baf_esp.png" alt="BAF and ESP logos" >}}
+{{< img src="../esp-logo.png" alt="ESP logo" >}}
+
+Blockchain Acceleration Foundation'a düzenleme aşamasında her türlü yardımlarından dolayı teşekkür ederiz.
+
+{{< img src="../baf-logo.png" alt="ESP logo" >}}
 
 ## Tarih
 
