@@ -26,7 +26,7 @@ Devconnect'ten hemen sonra Nesin Köyü'nde bir program düzenliyoruz. Bir hafta
 
 Katılımcı sayısını görece düşük tutmaya çalışıyoruz. Başvurular herkese açık olacak fakat araştırmacılara, mühendislere ve ilgili dallarda okuyan lisans ve lisansüstü öğrencilerine biraz öncelik tanınacak.
 
-0xKöy'ü [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) ve [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)'dan [Nour Assili](https://nourassili.com/) düzenliyor. Her türlü soru için Yiğit ile iletişime geçebilirsiniz. [Ulaş Erdoğan](https://0xulas.eth.limo/)'a desteğinden dolayı çok teşekkür ediyoruz.
+0xKöy'ü başta [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) olmak üzere Yiğit ve [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)'dan [Nour Assili](https://nourassili.com/) düzenliyor. Her türlü soru için Yiğit ile iletişime geçebilirsiniz. [Ulaş Erdoğan](https://0xulas.eth.limo/)'a desteğinden dolayı çok teşekkür ediyoruz.
 
 **[Başvurular açıldı!](https://forms.gle/wzvzbdRVc6pbpTXUA) Güncellemeler için herkese açık [Telegram grubuna](https://t.me/+u6Mfogc8KtI0NWEx) girebilirsiniz.**
 
@@ -34,11 +34,13 @@ Katılımcı sayısını görece düşük tutmaya çalışıyoruz. Başvurular h
 
 ## İşbirlikleri
 
-Blockchain Acceleration Foundation'a düzenleme aşamasında her türlü yardımlarından dolayı teşekkür ederiz.
+0xKöy'ü [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) düzenliyor.
+
+[Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/)'a düzenleme aşamasında her türlü yardımlarından dolayı teşekkürler.
 
 {{< img src="../baf-logo.png" alt="ESP logo" >}}
 
-Ethereum Ekosistem Geliştirme Programı'na mali desteğinden ötürü teşekkür ederiz.
+[Ethereum Ekosistem Geliştirme Programı](https://esp.ethereum.foundation/)'na mali desteğinden ötürü teşekkürler.
 
 {{< img src="../esp-logo.png" alt="ESP logo" >}}
 

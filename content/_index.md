@@ -27,7 +27,7 @@ The long-term goal of this program is to start a long-lasting relationship betwe
 
 We are targeting a modest participant count, with priority given to researchers, engineers and university students who work on or are interested in working on Ethereum.
 
-This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [Nour Assili](https://nourassili.com/) from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) as co-organizer. We thank [Ulaş Erdoğan](https://0xulas.eth.limo/) for his significant support.
+This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com). [Nour Assili](https://nourassili.com/) from the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) is the co-organizer. We thank [Ulaş Erdoğan](https://0xulas.eth.limo/) for his significant support.
 
 **[Applications are now open!](https://forms.gle/wzvzbdRVc6pbpTXUA) Feel free to join our public [Telegram chat](https://t.me/+u6Mfogc8KtI0NWEx) where the organizers will be sharing updates and answering questions.**
 
@@ -35,10 +35,12 @@ This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) with [
 
 ## Affiliations
 
-Special thanks to the Blockchain Acceleration Foundation for being a co-organizer.
+This program is led by [Yiğit Kılıçoğlu](https://yigitkilicoglu.com).
+
+Special thanks to the [Blockchain Acceleration Foundation](https://www.blockchainacceleration.org/) for being a co-organizer.
 {{< img src="baf-logo.png" alt="BAF logo" >}}
 
-Special thanks to the Ethereum Ecosystem Development Program for their financial support.
+Special thanks to the [Ethereum Ecosystem Development Program](https://esp.ethereum.foundation/) for their financial support.
 {{< img src="esp-logo.png" alt="ESP logo" >}}
 
 ## Reasons to come
