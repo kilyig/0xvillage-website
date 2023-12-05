@@ -10,7 +10,9 @@ featuredImage:
 
 The following countries were represented at 0xVillage: Belgium, Canada, Egypt, France, Germany, Honduras, India, Iran, Japan, Poland, Singapore, South Korea, Thailand, Tunisia, Turkey, USA.
 
-The long-term goal of this program was to start a long-lasting relationship between Ethereum and the Turkish math community that will enable many researchers from the region to discover web3. We will call this program a success if it leads to the organization of a series of web3-related events in the Village and/or across the region.
+We had two main reasons for organizing 0xVillage:
+* We wanted to start a long-lasting relationship between Ethereum and the Turkish math community that would enable many researchers from the region to discover web3. We will call this program a success if it leads to the organization of a series of web3-related events in the Village and/or across the region.
+* There was a need for more web3 events that focused entirely on the tech, without any marketing or business components. The Math Village offered the uninterrupted setting that we were looking for.
 
 ## Next steps
 We are currently exploring ways to organize a similar program in the future. In the meantime, feel free to join the [public Telegram group](https://t.me/+u6Mfogc8KtI0NWEx) where the next iterations of 0xVillage will be discussed.
