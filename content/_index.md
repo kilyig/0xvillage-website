@@ -4,6 +4,8 @@ annotations: false # Disable annotation via hypothesis on this page
 featuredImage:
 ---
 
+Update (February 2024): If you are interested in organizing a similar event at the Nesin Math Village, feel free to contact [Yiğit Kılıçoğlu](https://yigitkilicoglu.com) and [Nour Assili](https://nourassili.com/).
+
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
 
 0xVillage was a program at the [Nesin Math Village](https://nesinkoyleri.org/en/main-page/) in Western Turkey right after [Devconnect](https://devconnect.org) (19-23 November). Each day of the program featured research talks on crypto, but participants were also able to discover the surrounding regions and enjoy the setting and resources offered by the Village.
