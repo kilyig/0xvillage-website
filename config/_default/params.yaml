@@ -1,6 +1,6 @@
 # Site description. Used in meta description
 description: >-
-  Research talks on crypto at the Nesin Math Village after Devconnect
+  Research talks on crypto(graphy) at the Nesin Math Village after Devconnect
 
 # SEO keywords. Used in 'meta name="keywords"' tag.
 # May be overridden by .Keywords or .Tags in front matter.
@@ -8,6 +8,7 @@ keywords:
   - nesin village
   - 0xvillage
   - crypto
+  - cryptography
   - ethereum
   - math
 

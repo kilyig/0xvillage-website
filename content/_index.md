@@ -8,7 +8,7 @@ Update (February 2024): If you are interested in organizing a similar event at t
 
 {{< img src="nesin-village-ana.jpg" alt="Nesin Village view" >}}
 
-0xVillage was a program at the [Nesin Math Village](https://nesinkoyleri.org/en/main-page/) in Western Turkey right after [Devconnect](https://devconnect.org) (19-23 November). Each day of the program featured research talks on crypto, but participants were also able to discover the surrounding regions and enjoy the setting and resources offered by the Village.
+0xVillage was a program at the [Nesin Math Village](https://nesinkoyleri.org/en/main-page/) in Western Turkey right after [Devconnect](https://devconnect.org) (19-23 November). Each day of the program featured research talks on crypto(graphy), but participants were also able to discover the surrounding regions and enjoy the setting and resources offered by the Village.
 
 The following countries were represented at 0xVillage: Belgium, Canada, Egypt, France, Germany, Honduras, India, Iran, Japan, Poland, Singapore, South Korea, Thailand, Tunisia, Turkey, USA.
 
